@@ -24,7 +24,7 @@ composer require moussazoungrana/event-manager
  
  ###########################
  
- \moz\EventManager\Emitter::getInstance()->on('second-event', function ($t){
+ \moz\EventManager\Emitter::getInstance()->on('second.event', function ($t){
      echo "second event here \n";
      echo $t;
  });
