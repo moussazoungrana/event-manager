@@ -1,5 +1,6 @@
 {
     "name": "moussazoungrana/event-manager",
+    "description": "manage your php application event",
     "authors": [
         {
             "name": "Moussa Zoungrana",
