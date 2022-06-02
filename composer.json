@@ -1,0 +1,17 @@
+{
+    "name": "moussazoungrana/event-manager",
+    "authors": [
+        {
+            "name": "Moussa Zoungrana",
+            "email": "moussawalidzoungrana@gmail.com"
+        }
+    ],
+
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "moz\\EventManager\\": "src/"
+        }
+    }
+}
