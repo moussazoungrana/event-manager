@@ -15,6 +15,11 @@ class Emitter
      */
     protected $listeners = [];
 
+
+    private function __construct()
+    {
+    }
+
     /**
      * @return static
      */
